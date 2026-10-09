@@ -57,12 +57,12 @@ startups.
 ### 1. Clone the repository
 
 ``` bash
-git clone <YOUR_PUBLIC_GITHUB_REPOSITORY_URL>
+git clone git clone https://github.com/prachi3761/StartupFund.git
 cd StartupFund
+
 ```
 
-Replace `<YOUR_PUBLIC_GITHUB_REPOSITORY_URL>` with the URL of your
-public repository.
+
 
 ### 2. Configure the backend
 
