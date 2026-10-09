@@ -1,0 +1,281 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Initialize the server package": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479775935
+      },
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479794751
+      }
+    ],
+    "1.2 Initialize the client package": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479778062
+      },
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479794939
+      }
+    ],
+    "2.1 Implement server pure validation functions": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479778528
+      }
+    ],
+    "2.2 Implement client-side validation parity": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479778912
+      }
+    ],
+    "3.1 Create error classes": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479779111
+      }
+    ],
+    "3.2 Create authentication and authorization middleware": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479779347
+      }
+    ],
+    "3.3 Create validation middleware": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479779622
+      }
+    ],
+    "3.4 Create central error handler": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479779944
+      }
+    ],
+    "4.1 Create the User model": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479780219
+      }
+    ],
+    "4.2 Create the Startup model": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479780497
+      }
+    ],
+    "4.3 Create the Shortlist model": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479780692
+      }
+    ],
+    "4.4 Create the pagination utility": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479780847
+      }
+    ],
+    "5.1 Create auth validator schemas": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479781014
+      }
+    ],
+    "5.2 Create the auth controller": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479781220
+      }
+    ],
+    "5.3 Create auth routes": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479781602
+      }
+    ],
+    "6.1 Create startup validator schemas": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479781888
+      }
+    ],
+    "6.2 Create the startup controller": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479782154
+      }
+    ],
+    "6.3 Create startup routes": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479782501
+      }
+    ],
+    "7.1 Create the discovery controller": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479782810
+      }
+    ],
+    "7.2 Create discovery routes": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479783020
+      }
+    ],
+    "8.1 Create the shortlist controller": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479783194
+      }
+    ],
+    "8.2 Create shortlist routes": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479783392
+      }
+    ],
+    "9.1 Complete the Express app": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479783565
+      }
+    ],
+    "10. Checkpoint - Ensure all server tests pass": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479783739
+      }
+    ],
+    "11.1 Create the API client": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479783903
+      }
+    ],
+    "11.2 Create the auth context and hook": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479784076
+      }
+    ],
+    "11.3 Create shared UI components": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479784253
+      }
+    ],
+    "11.4 Create form components": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479784411
+      }
+    ],
+    "11.5 Create startup components": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479784608
+      }
+    ],
+    "11.6 Create layout components": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479784779
+      }
+    ],
+    "12.1 Create Register and Login pages": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479784997
+      }
+    ],
+    "12.2 Create the StartupForm page": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479785337
+      }
+    ],
+    "13.1 Create the FounderDashboard page": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479785597
+      }
+    ],
+    "14.1 Create the Browse page": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479785768
+      }
+    ],
+    "14.2 Create the StartupDetails page": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479785919
+      }
+    ],
+    "15.1 Create the InvestorDashboard page": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479786085
+      }
+    ],
+    "16.1 Complete the App routing": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479786245
+      }
+    ],
+    "18. Final checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "2b13ffa7-dcdd-4449-8079-3c9fdaaa5ec2",
+        "chatSessionId": "sess_e3c64dbb-5ab9-457d-b47a-15e41edec70a",
+        "timestamp": 1791479786403
+      }
+    ]
+  }
+}

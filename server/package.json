@@ -1,0 +1,32 @@
+{
+  "name": "startupfund-server",
+  "version": "1.0.0",
+  "description": "StartupFund API server - Express.js + Mongoose + MongoDB",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --env-file-if-exists=.env --watch src/server.js",
+    "start": "node --env-file-if-exists=.env src/server.js",
+    "test": "node scripts/test.mjs"
+  },
+  "keywords": [
+    "express",
+    "mongoose",
+    "mongodb",
+    "api"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "6.0.0",
+    "express": "5.2.1",
+    "express-validator": "7.3.2",
+    "jsonwebtoken": "9.0.3",
+    "mongoose": "9.11.1"
+  },
+  "devDependencies": {
+    "fast-check": "4.10.2",
+    "jest": "30.5.2",
+    "mongodb-memory-server": "11.3.0",
+    "supertest": "7.3.1"
+  }
+}
